@@ -1,10 +1,11 @@
-# My Narcissistic Website
+# DEPRECATED REPOSITORY
 
-This repository contains the source code for http://chriscummins.cc. There's
-probably nothing of use here for a budding programmer unless you're especially
-obsessed with me, or are looking for security holes to exploit. If you have any
-specific questions feel free to drop me a message via the site and I can point
-you in the right direction.
+This repository contains the *old* source code for
+http://chriscummins.cc. Note that this has moved to a shiny [new
+repository](https://github.com/ChrisCummins/chriscummins.github.io/),
+and this old code has been [merged
+in](https://github.com/ChrisCummins/chriscummins.github.io/commit/2e352b94e0f7a166b2a31401e7e87819ef758a4f). This
+repository is pending deletion.
 
 Any source code I've written is released under the MIT license (see
 [COPYING](COPYING)). Any third-party code is distributed under the terms of
